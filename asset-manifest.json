@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/meccoi/Airbnb_clone.git/static/css/main.59db7779.css",
-    "main.js": "/meccoi/Airbnb_clone.git/static/js/main.394947c1.js",
-    "static/js/787.2746eaee.chunk.js": "/meccoi/Airbnb_clone.git/static/js/787.2746eaee.chunk.js",
-    "index.html": "/meccoi/Airbnb_clone.git/index.html",
-    "main.59db7779.css.map": "/meccoi/Airbnb_clone.git/static/css/main.59db7779.css.map",
-    "main.394947c1.js.map": "/meccoi/Airbnb_clone.git/static/js/main.394947c1.js.map",
-    "787.2746eaee.chunk.js.map": "/meccoi/Airbnb_clone.git/static/js/787.2746eaee.chunk.js.map"
+    "main.css": "/meccoi/airbnb_clone/static/css/main.59db7779.css",
+    "main.js": "/meccoi/airbnb_clone/static/js/main.61137a1e.js",
+    "static/js/787.2746eaee.chunk.js": "/meccoi/airbnb_clone/static/js/787.2746eaee.chunk.js",
+    "index.html": "/meccoi/airbnb_clone/index.html",
+    "main.59db7779.css.map": "/meccoi/airbnb_clone/static/css/main.59db7779.css.map",
+    "main.61137a1e.js.map": "/meccoi/airbnb_clone/static/js/main.61137a1e.js.map",
+    "787.2746eaee.chunk.js.map": "/meccoi/airbnb_clone/static/js/787.2746eaee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59db7779.css",
-    "static/js/main.394947c1.js"
+    "static/js/main.61137a1e.js"
   ]
 }
